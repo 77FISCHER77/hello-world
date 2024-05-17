@@ -111,7 +111,7 @@ public class Main {
 
 
     } else {
-        System.out.println(" число " + one + " меньше 2 и 3"  );
+        System.out.println(" число " + one + " меньше 2 и 3 " + "Привет мир!" );
        }
 
     }

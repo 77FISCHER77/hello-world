@@ -11,7 +11,7 @@ public class Main {
 
     public static void task1 () {
         System.out.println("Задача 1");
-        int age = 17;
+        int age = 18;
         if (age >= 18) {
             System.out.println("он совершеннолетний");
         } else {

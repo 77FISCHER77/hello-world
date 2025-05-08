@@ -24,7 +24,7 @@ public class Main {
 public static void task2() {
     System.out.println("Задача 2");
 
-    int clientDeviceYear = 2006;
+    int clientDeviceYear = 2007;
     String msg = clientDeviceYear <= 2015 ? " облегчёную версию " : " ";
     String os = clentOS == 0 ? " iOS " : " Android ";
 
